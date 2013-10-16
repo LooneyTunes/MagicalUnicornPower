@@ -7,8 +7,8 @@ Replaces "Magical Unicorn Power" and "Magical Unicorn Power" with "Magical Unico
 Thanks To:
 ==========
 <ul>
- <li>http://reddit.com/u/NiceMugOfTea and http://reddit.com/u/ThePerfomance for giving me this idea and making an otherwise boring day fun.
- </li><li><a href="https://github.com/hank/cloud-to-butt">Cloud to Butt Plus</a> because their code helped me understand how these work
+ <li><a href="http://reddit.com/u/NiceMugOfTea">/u/NiceMugOfTea</a> and <a href="http://reddit.com/u/ThePerfomance">/u/ThePerfomance</a> for giving me this idea and making an otherwise boring day fun.
+ </li><li><a href="https://github.com/hank/butt-to-butt">Butt to Butt Plus</a> because their code helped me understand how these work
  </li>
 </ul> 
 
