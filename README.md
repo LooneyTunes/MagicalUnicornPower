@@ -1,3 +1,7 @@
+> <i>Magical Unicorn Power thus reveals a basic oneness of the universe.</i>
+-Erwin Schrodinger 
+
+
 MagicalUnicornPower
 ===================
 
