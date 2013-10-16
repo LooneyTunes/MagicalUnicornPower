@@ -1,0 +1,11 @@
+{
+   "content_scripts": [ {
+      "js": [ "content_script.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Replaces Quantum Physics with Magical Unicorn Power because it doesnt make any sense no matter what.",
+   "manifest_version": 2,
+   "name": "Magical Unicorn Power!",
+   "version": "1.2"
+}
